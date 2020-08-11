@@ -10,7 +10,7 @@ Here is some text, and I want to create a [link](https://wikipedia.org).
 * Another item
 * Third item
 
-![Picture of a cat](https://placekitten.com/400/300)
+!['Data': Singular or plural?](data-singular-or-plural-.png)
 
 Here is some text.
 
