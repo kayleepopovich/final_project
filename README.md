@@ -10,4 +10,4 @@ The debate surrounding the use of the Oxford comma is both meaningless and conti
 
 ![Chart image](data-singular-or-plural-.png)
 
-![Chart image]()
+![Chart image](oc7kr-how-much-people-care-about-the-oxford-comma-in-the-united-states.png)
